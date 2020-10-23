@@ -21,8 +21,9 @@ serwera Polski Realny Serwer.
 Serwer korzystający z XyzzyRP przerobionego na serwer RPG.
 Nieprzerwanie działa od wakacji 2014.
 
-## [Master Real Life](mtasa://193.70.126.136:21040)
+## [New Real Life](mtasa://193.70.126.129:20000)
 Serwer korzystający z XyzzyRP przerobionego na serwer RPG.
+działa od Września 2019.
 
 
 Jeśli korzystasz z tego kodu i chesz się tym pochwalić, zmodyfikuj ten plik i dopisz swój serwer.
